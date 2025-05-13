@@ -1,0 +1,5 @@
+beautifulsoup4
+lxml         # parser XML/HTML opcional, da más velocidad y robustez
+selenium
+boto3
+python-dotenv
