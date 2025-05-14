@@ -1,0 +1,1 @@
+schtasks.exe /Create /TN "bot-monitor-57" /SC DAILY /ST 10:00 /TR '"C:\Windows\System32\wscript.exe" "F:\kick\bot_inspection_monitor_57\job.vbs"' /RU SYSTEM /RL HIGHEST /F
